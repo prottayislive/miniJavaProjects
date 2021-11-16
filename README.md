@@ -7,4 +7,4 @@ A collection of mini projects in Java for learning purposes
 - Find Area of a Circle
 - Find Area of a Triangle
 - Display the Fibonacci Series
-- Print all factors of any number (intger)
+- Print all factors of any number (integer)
