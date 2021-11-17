@@ -12,7 +12,7 @@ public class factorialFinder {
         for (int i = 1; i < n; i++){
             fac = fac * i;
         }
-        n = n*fac;
+        n = n * fac;
         System.out.println(n);
     }
 }
