@@ -14,6 +14,6 @@
 
 ### How to use-
 
-- Hava JDK installed on your device.
-- Clone repository
-- Run programs individually
+1. Hava JDK installed on your device.
+2. Clone repository
+3. Run programs individually
